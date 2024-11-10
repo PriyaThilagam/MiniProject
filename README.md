@@ -47,7 +47,7 @@ This project aims at designing a real-time Sign Language to Speech Conversion sy
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - After browsing for our website, the following page will be shown.
+#### Output1 - After browsing for our website, the following page will be shown
 In this page the live feed from the camera is displayed
 
 ![1](https://github.com/user-attachments/assets/51bfc911-06e8-41ae-a8a9-2656e66649fa)
